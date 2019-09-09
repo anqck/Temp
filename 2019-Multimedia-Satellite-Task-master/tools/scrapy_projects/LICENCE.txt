@@ -1,0 +1,14 @@
+FloodTags Web Scrapers Software License
+==========================================
+
+The software to download the required data is provided by FloodTags.
+
+1. You can freely use the software for evaluation, research and teaching purposes
+   under MediaEval task. Any other usage of the system (in particular for commercial
+   purposes) is not allowed without prior consent.
+
+2. You are not allowed to distribute the software to other
+   persons without written permission.
+
+Contact address:
+info@floodtags.com
